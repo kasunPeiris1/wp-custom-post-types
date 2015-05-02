@@ -1,5 +1,5 @@
 # Custom post types for Wordpress 
-### based on salient theam
+### Based on salient theam
   - Custom Post Type:: This script allow you to add custom post type item details from the WP backend.(custom_post.php)
   - Custom Plugin:: This script allow you to manage a one post type initiated by custom post type plugin. (custom_plugin.php)
   - Single Item Listing Page:: This script will allow to render single items of your post type on the page.(single-listing.php)
